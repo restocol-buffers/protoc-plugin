@@ -1,1 +1,1 @@
-# protoc-plugin-go
+# protoc-plugin
